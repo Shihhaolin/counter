@@ -1,1 +1,1 @@
-Practice design a testbench of counter.
+Practice to design a testbench of counter.
